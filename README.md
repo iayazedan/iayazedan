@@ -16,6 +16,4 @@ I am a passionate Software Engineer with over 6 years of managing high-impact te
 ![](https://github-profile-trophy.vercel.app/?username=iayazedan&theme=solarized-light&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iayazedan&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
